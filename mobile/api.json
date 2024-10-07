@@ -1,0 +1,18 @@
+{
+  "URL_CLIENT": "https://github.com/unkcs/api/releases/download/Release/client.apk",
+  "URL_GAME_FILES" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_POWERVR" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_MALI" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_ADRENO" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_DEFAULT" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
+  "URL_GAME_FILES_UPD" : "https://github.com/unkcs/api/releases/download/Release/files_upd.zip",
+  "URL_SITE": "https://arizonagroup.com.br/",
+  "URL_INSTAGRAM": "https://www.instagram.com/@azgroup_brasil/",
+  "URL_DISCORD": "https://discord.gg/xAFfCQRzMD",
+  "URL_YOUTUBE": "https://youtube.com/@AzGroupBr",
+  "URL_SHOP": "https://arizonagroup.com.br/",
+  "URL_LOADSCREEN": "http://181.215.254.200/assets/intro.mp4",
+  "URL_DEVELOPER": "https://www.github.com/azbr/",
+  "clientVersionCode": 1,
+  "gameFilesVersionCode": 1
+}
