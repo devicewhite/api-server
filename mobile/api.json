@@ -1,5 +1,5 @@
 {
-  "URL_CLIENT": "https://github.com/unkcs/api/releases/download/Release/client.apk",
+  "URL_CLIENT": "https://github.com/devicewhite/api-server/releases/download/Nando.xs/client.apk",
   "URL_GAME_FILES" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
   "URL_GAME_POWERVR" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
   "URL_GAME_MALI" : "https://github.com/unkcs/api/releases/download/Release/game.zip",
